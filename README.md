@@ -1,6 +1,7 @@
 # ISPR-Mid1
 
-#SHORT DESCRIPTION
+## SHORT DESCRIPTION
+
 Select an image from 4 different themes, for these images, extract the SIFT descriptors using the visual feature detector embedded in SIFT to identify the points of interest. Aggregate all the identified descriptors in a dataset and run k-means to partition the descriptors in clusters. Then analyze the obtained clusters by confronting the descriptors assigned to each cluster with the thematic classes of the images from which they were extracted (confusion matrix ). 
 
 
