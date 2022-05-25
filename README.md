@@ -1,4 +1,4 @@
-# ISPR-Mid1
+# Kmeans with SIFT descriptors
 
 ## SHORT DESCRIPTION
 
